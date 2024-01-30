@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# SDK and Build Directories
+pico-sdk/
+build/
